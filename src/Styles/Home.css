@@ -1,0 +1,282 @@
+
+body{
+    background-color: #000000 !important;
+}
+a{
+    text-decoration: none !important;
+    color: #fff !important;
+}
+.Header-Button{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    font-style: bold;
+   
+
+}
+
+
+
+.Joinourdiscord-button {
+    background-color:#ff6647;
+    height: 4rem;
+    width: 10rem;
+    text-align: center;
+    color: rgb(36, 36, 36);
+    text-decoration: none;
+    clip-path: polygon(0 0,100% 0,100% 45%,90% 100%,12% 100%,8% 85%,0 85%);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.play-now{
+    background-color:#ff6647;
+    height: 4rem;
+    width: 8rem;
+    color: black;
+    text-decoration: none;
+    clip-path: polygon(0 0,100% 0,100% 45%,90% 100%,12% 100%,8% 85%,0 85%);
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+
+
+.containe{
+    background-image: url(https://planetix.com/_nuxt/img/right-man-banner.d0688b1.png);
+    background-color: #000;
+    background-size: contain;
+    background-position: 100%;
+    padding-bottom: 200px;
+    position: relative;
+    z-index: 1;
+    background-repeat: no-repeat;  
+    flex-wrap: wrap;
+}
+.Heading{
+    padding: 2rem;
+    color:#ff6647;
+}
+.heading-2{
+    color: white;
+}
+.paragraph{
+    color: white;    
+}
+.Home-Page{
+    width: 55%;
+}
+.Home-Page-Button{
+    display: flex;
+    padding: 20px;
+    padding-top: 20px; 
+    cursor: pointer; 
+}
+
+.Home-Play-Button{
+    background-color: #ff6647;
+    padding: 20px;
+    color: #000;
+    cursor: pointer;
+}
+.Home-Byu-Button{
+    background-color: transparent;
+    padding: 20px;
+    color: #ff6647;
+    margin-left: 25px;
+    border-color: #ff6647;  
+}
+
+.home-svg-image{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+
+}
+.container-2{
+    display: flex;
+    background-color: #1A1A1A;
+    padding-bottom: 200px;
+    color: aliceblue;
+    /* justify-content: center; */
+    padding-top: 140px;
+    
+
+}
+
+.container-2-box{
+    display: flex;
+    background-color: #070302;
+    margin-left: 7rem;
+    box-sizing: border-box;
+    
+   
+}
+
+.container3{
+    display: flex;
+    padding-bottom: 120px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    background-color: #1A1A1A;
+    border: 2px solid red;  
+}
+
+.cont-3-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-lg-9{
+    color:#ff6647;
+}
+.container-4{
+    /* background-color: rgb(21, 22, 22);
+    display: flex;
+    padding-bottom: 300px;
+    padding-top: 50px;
+    background-image: url(../Images/miss-Control.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    */
+   /* background-color: #1A1A1A; */
+   display: flex;
+   justify-content: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 3rem 0rem;
+    /* border-bottom: 1px solid red; */
+    color: white;
+    background-image: url(../Images/miss-Control.png);
+}
+.pag-4{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.container-5{
+    background-color: #ff6647;
+    text-align: center;
+    padding: 3rem;
+    margin-bottom: 1rem;
+    clip-path: polygon(0% 15%, 0 0, 15% 0%, 85% 0%, 100% 0, 100% 15%, 100% 95%, 60% 95%, 59% 100%, 45% 100%, 44% 95%, 0 95%);
+}
+
+.container-6{
+    color: white;;
+   padding: 3rem;
+    text-align: center;
+    background-color: #000;
+    border: 2px solid white;
+}
+
+.Button-container-6{
+    margin-top: 24px !important;
+    margin-bottom: 40px !important;
+    color: #84d4bc!important;
+    border: 1px solid rgba(132,212,188,.4);
+    background: rgba(132,212,188,.2);
+    padding: 14px 22px;
+    height: auto;
+}
+.container-7{
+    color: white;
+    text-align: center;
+}
+
+.hexagon{
+    /* background-color: #ff6647;
+    border-color: #ff6647;
+    text-align: center;
+    padding: 2rem 1.7rem;
+    margin-bottom: 1rem;
+    -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    height: 50px;
+    width: 50px;
+    margin-top: 24px !important;
+    margin-bottom: 100px !important; */
+    
+}
+
+.container-9{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+}
+.cont-9-col{
+   
+}
+.cont-7-to-14{
+    background-color: #000;
+}
+
+.container-10{
+    margin-top: 2rem;
+    background-color: #ff6647;
+    border-color: #ff6647;
+    text-align: center;
+    padding: 1rem 1.7rem;
+    margin-bottom: 1rem;
+    padding-top: 100px;
+}
+
+.container-11{
+    background-image: url(../Images/ss.png) ;
+    padding: 30rem 1.7rem;
+    margin-bottom: 1rem;
+    color: white;
+    padding-top: 20px;
+    background-repeat: no-repeat;
+}
+.container-12{
+    background-color: #000;
+    /* padding: 20rem 1.7rem; */
+    color: white; 
+
+   
+}
+
+
+.cont-12-h1{
+    text-align: center;
+  
+}
+.container-13{
+    color: white;
+    background-color: #000;
+    padding: 70px 1.7rem;
+    border: 2px solid green;
+    
+ 
+}
+.container-14{
+    margin-top: 1rem;
+    border: 2px solid yellow;
+}
+
+.con-14-ul-1{
+    color: white;
+}
+
+.Footer{
+    margin-top: 1rem;
+    background-color: #ff6647;
+    padding: 2rem 1.7rem;
+    margin-bottom: 1rem;
+    color: white;
+}

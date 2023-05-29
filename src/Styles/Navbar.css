@@ -1,0 +1,12 @@
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(37, 36, 35);
+    color: rgb(242, 240, 240);
+   
+}
+
+

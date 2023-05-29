@@ -1,0 +1,93 @@
+.Container__1{
+    color: white;
+    text-align: center;
+    background-image:url(	https://ix.foundation/images/banner_new.png) ;
+    background-repeat: no-repeat;
+    /* background-size: 100%;background-position: 100% 100%; */
+    background-size: CONTAIN;
+    background-position: center;
+    background-size: 40rem;
+
+
+}
+.dropdown-menu{
+background-color: #ff6647;
+
+   
+}
+.Header__button{
+    background-color: #424242;
+    color: white;
+}
+.Container_3_Button{
+    background-color: #ff6647;
+    padding: 1rem; 
+}
+.Container__1__Button{
+    margin-top: 15rem;
+    border-color: #ff6647;
+    background-color: #ff6647;
+    padding: 1rem;
+}
+.Container__2{
+    margin-top: 2rem;
+    color: white;
+    background-color: #2b2b2c;
+    border-color: #ff6647;
+    text-align: center;
+    padding: 8rem 1.7rem;
+    margin-bottom: 1rem;
+    
+}
+.Container_2_whitepaper{
+    text-align: start;
+}
+.Container__3{
+    background-image: url(../Images/earth.jpg);
+    padding: 10rem 1.7rem;
+    background-size: CONTAIN;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.Container__4{
+    margin-top: 2rem;
+    color: white;
+    background-color: #181819;
+    text-align: center;
+    padding: 8rem 1.7rem;
+    margin-bottom: 1rem;
+    border: 2px solid red;
+    
+}
+.Container__4_button{
+    background-color: #ff6647;
+    padding: 1rem;
+    
+}
+.Container__5{
+    color: white;
+    text-align: center;
+    padding: 8rem 1.7rem;
+    margin-bottom: 1rem;
+}
+.Container__6{
+    text-align: center;
+    padding: 8rem 1.7rem;
+    margin-bottom: 1rem;
+}
+
+.Container__7{
+    padding: 8rem 1.7rem;
+    /* margin-bottom: 1rem; */
+    background-color: #262628;
+    color: #f9f9f980;
+}
+
+.Footer__button{
+    border-radius: 1rem;
+    background-color: #2b2b2c;
+    color: white;
+    border-color: white;
+}
