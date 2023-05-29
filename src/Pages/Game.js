@@ -10,7 +10,7 @@ import etern from '../Images/gws.png'
 import lab from '../Images/eternalab.png'
 import imt from '../Images/ytm.png'
 import bgone from '../Images/bgone.svg'
-
+import vedio from '../Images/video.gif'
 
 
 
@@ -33,9 +33,9 @@ const Game = () => {
   </div> 
   <div className="col-md-8 col-sm-12 text-center">
   <div className="img_google">
-  <video className autoPlay loop muted style={{ width: "100%" }}>
-                <source src="video.mp4" type="video/mp4" />
-              </video>
+  
+  <img src={vedio} alt='' width={'50%'}/> 
+             
               </div>
   </div>
  </div>
