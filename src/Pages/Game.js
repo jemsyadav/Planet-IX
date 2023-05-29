@@ -33,7 +33,7 @@ const Game = () => {
   </div> 
   <div className="col-md-8 col-sm-12 text-center">
   <div className="img_google">
-  <video className autoPlay loop muted style={{ width: "40%" }}>
+  <video className autoPlay loop muted style={{ width: "100%" }}>
                 <source src="video.mp4" type="video/mp4" />
               </video>
               </div>
