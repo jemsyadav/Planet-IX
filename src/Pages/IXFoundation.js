@@ -165,10 +165,10 @@ const IXFoundation = () => {
                <a href="/roadmap" class="css-0">Roadmap</a><br />
                  <div>Initiatives<span>TBA</span></div><br />
                    <div>Vision &amp; Mission<span>TBA</span></div><br /><br />
-                     <a href="https://planetix.statuspage.io/" class="css-0">Status</a><br />
+                     <a href="https://planetix.statuspage.io/" class="css-0">Status</a><br /><br />
                 </div>
-                  <div className="col-md-4 col-sm-6">
-                  <button className='Footer__button'> Buy Ix Token <br /> <p>exchange via DEX</p></button><br /><br /><br /><br />
+                  <div className="col-md-4 col-sm-6"> 
+                  <button className='Footer__button'> Buy Ix Token <br /> <p>exchange via DEX</p></button><br /><br /><br /><br /> <br />
                   <button className='Footer__button'> Investor Login <br /> <p>only aviable for presale investor</p></button>
                 </div>
                 
